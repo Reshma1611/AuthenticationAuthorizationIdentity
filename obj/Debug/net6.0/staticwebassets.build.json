@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JtOGb+FGmob9aEtUaZyvWxNkD0A6GWE3xYH9LTM+4As=",
+  "Source": "AuthenticationAuthorizationIdentity",
+  "BasePath": "_content/AuthenticationAuthorizationIdentity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
